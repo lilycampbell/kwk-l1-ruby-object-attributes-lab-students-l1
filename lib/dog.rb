@@ -1,6 +1,7 @@
 # dog.rb
-class Dog 
-  def 
+class Dog
+end
+   
 
 
 
