@@ -20,7 +20,7 @@ class Dog
     
 end
    
-dog_one = Dog.new("Doggo")
+dog_one = Dog.new("Doggo", "terrier")
 
 puts dog_one 
 
