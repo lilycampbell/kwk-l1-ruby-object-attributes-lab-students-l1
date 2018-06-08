@@ -23,7 +23,7 @@ end
     
 end
    
-person_one = Person.new("fido", "dog")
+person_one = Person.new("Jennifer", "coder")
 
 # dog_one.name = "Buddy"
 
