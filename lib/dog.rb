@@ -24,7 +24,7 @@ end
     
 end
    
-dog_one = Dog.new("Doggo", "terrier")
+dog_one = Dog.new("fido", "terrier")
 
 # dog_one.name = "Buddy"
 
