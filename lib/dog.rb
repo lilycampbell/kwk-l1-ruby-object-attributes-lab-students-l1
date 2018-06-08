@@ -22,7 +22,9 @@ end
    
 dog_one = Dog.new("Doggo", "terrier")
 
-puts dog_one.breed 
+dog_one.name = "Buddy"
+
+puts dog_one.name 
 
 
 
