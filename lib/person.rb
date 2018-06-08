@@ -27,4 +27,4 @@ person_one = Person.new("Jennifer", "coder")
 
 # dog_one.name = "Buddy"
 
-puts person_one.name 
+# puts person_one.name 
