@@ -25,7 +25,7 @@ end
    
 dog_one = Dog.new("fido", "terrier")
 
-# dog_one.name = "Buddy"
+dog_one.name = "Buddy"
 
 puts dog_one.name 
 
